@@ -1,7 +1,7 @@
 # My_first_GP
 
 For my third [repository](https://github.com/vmidor/My_first_GP) on Github, I have created a Javascript Password Generator. This application generates a random password based on user selected criteria. The application combines the HTML, CSS, and now Javascript tools. The user will be prompted to choose from the following:
-Length of password (must contain at least 8 characters but less than 128)
+Length of password (must contain at least 8 characters and no more than 128)
 
 Character Type (user must select at least one): 
 * Special characters 
