@@ -11,7 +11,7 @@ The end result of the application provides the user a new and secure password. W
 Please visit the deployed project at: https://vmidor.github.io/My_first_GP/
 
 # 
-![](homework/My_first_GP/Demo-screenshot.png)
+![screenshopt of the app](assets/Demo-screenshot.png)
 
 # Bonus
 The user should also have the option to click a button to copy the password to their clipboard.
